@@ -1,0 +1,8 @@
+*.asv
+*.autosave
+*.m~
+slprj/
+codegen/
+*_reverb_*.wav
+.DS_Store
+Thumbs.db
